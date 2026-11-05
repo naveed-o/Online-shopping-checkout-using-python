@@ -1,3 +1,5 @@
+import mysql.connector
+
 inv = [["Apple",89,20],["Mango",99,20],["Orange",99,20]]
 cart = [0,0,0]
 balance = 5000.0
